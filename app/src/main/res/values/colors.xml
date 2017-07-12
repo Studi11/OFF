@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#B0BEC5</color>
+
+    <color name="background">#000000</color>
+    <color name="toggleButton">#757575</color>
+    <color name="onButton">#EEEEEE</color>
+    <color name="offButton">#424242</color>
+    <color name="activeButton">#ed4242</color>
+
+    <color name="textColorLight">#CFD8DC</color>
+    <color name="textColorDark">#455A64</color>
+</resources>
